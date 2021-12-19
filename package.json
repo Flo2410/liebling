@@ -25,6 +25,24 @@
       "xl": {
         "width": 2000
       }
+    },
+    "custom": {
+      "show_footer_links": {
+        "type": "boolean",
+        "default": true
+      },
+      "copyright_text_override": {
+        "type": "text"
+      },
+      "show_more_button_in_nav": {
+        "type": "boolean",
+        "default": true
+      },
+      
+      "show_social_links_in_posts": {
+        "type": "boolean",
+        "default": true
+      }
     }
   },
   "demo": "https://liebling.eduardogomez.io",
